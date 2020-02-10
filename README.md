@@ -1,4 +1,4 @@
-# DevHubbies
+# Pachance
 
 Pachance is a platform for bus operator and bus passenger.
 
