@@ -1,6 +1,6 @@
 # DevHubbies
 
-Devhubbies is an online platform for developer, it stores hosted portfolio projects together with the technology stack of the particular project. This is to show their works easily to the community.
+Pachance is a platform for bus operator and bus passenger.
 
 ## Getting Started
 
